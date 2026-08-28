@@ -65,13 +65,13 @@
 ### 🌐 Conectemos y Colaboremos
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://linkedin.com/in/gustavoNetcon" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:gustavo.raya@netnegocios.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/TU-USUARIO">
+  <a href="https://github.com/gustavoNetcon">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
