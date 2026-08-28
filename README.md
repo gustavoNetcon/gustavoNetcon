@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre Mí
 
-* 🔭 Actualmente me encuentro desarrollando soluciones de software empresarial, extensiones B2B y aplicaciones multiplataforma.
+* 🔭 Actualmente me encuentro desarrollando soluciones de software empresarial, extensiones y aplicaciones multiplataforma.
 * ⚡ Amante de la lógica de programación, la optimización de bases de datos y la creación de experiencias limpias tanto en backend como en frontend.
 * ⚽ Cuando apago el entorno de desarrollo, me encuentras jugando un buen partido de fútbol o disfrutando de la música y un buen rato libre.
 
