@@ -1,40 +1,54 @@
 # ¡Hola, soy Gustavo Gabriel Raya Urbina! 👋
 
-## 🚀 Sobre Mí
-Soy un desarrollador de software apasionado por construir soluciones eficientes, robustas y escalables. Actualmente me encuentro consolidando mi experiencia en el desarrollo de sistemas empresariales y aplicaciones multiplataforma, combinando lógica sólida de backend con interfaces limpias y funcionales.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hola%2C+Mundo!+👋;+Soy+Desarrollador+de+Software;+Transformo+ideas+en+código+limpio" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+### 💻 Acerca de Mí
 
-| Categoría | Tecnologías |
+* 🔭 Actualmente enfocado en el desarrollo de sistemas empresariales, arquitecturas robustas y aplicaciones multiplataforma.
+* ⚡ Amante de la optimización de bases de datos, el código limpio y la resolución de problemas lógicos complejos.
+* ⚽ Cuando no estoy escribiendo código, probablemente estoy jugando un partido de fútbol o probando nuevas tecnologías.
+
+---
+
+### 🛠️ Arsenal Tecnológico
+
+<div align="center">
+
+| Categoría | Tecnologías Principales |
 | :--- | :--- |
-| **Lenguajes** | C#, JavaScript, PHP, Python, Java |
-| **Backend & Frameworks** | ASP.NET Core, .NET MAUI, Entity Framework Core |
-| **Bases de Datos** | MySQL, SQL Server, SQLyog |
-| **Herramientas & Entornos** | Git, GitHub, DevExtreme, DevExpress |
+| **Lenguajes** | `C#`, `JavaScript`, `PHP`, `Python`, `Java`, `SQL` |
+| **Backend & Móvil** | `ASP.NET Core`, `.NET MAUI`, `Entity Framework Core` |
+| **Bases de Datos** | `MySQL`, `SQL Server`, `SQLyog` |
+| **Herramientas & UI** | `Git`, `GitHub`, `DevExtreme`, `DevExpress`, `VS Code` |
+
+</div>
 
 ---
 
-## 💼 Proyectos Destacados
+### 📈 Estadísticas de GitHub
 
-* **[Nombre del Proyecto ERP / B2B]**
-  * Extensión B2B para sistemas comerciales que optimiza la gestión de cotizaciones, órdenes de compra y control de perfiles de proveedores utilizando ASP.NET Core y controles DevExtreme.
-* **[Nombre de la App Móvil]**
-  * Aplicación multiplataforma desarrollada en .NET MAUI para la administración de órdenes de colección, registros de servicios y captura de firmas digitales.
-* **[Sistema de Planificación]**
-  * Suite de administración modular enfocada en la gestión de proyectos, actividades operativas y módulos de inteligencia de negocios.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
----
-
-## 📊 Estadísticas y Actividad
-
-![Tus Estadisticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-## 📫 ¿Cómo contactarme?
+### 🌐 Conectemos
 
-* **GitHub:** [github.com/TU-USUARIO](https://github.com/TU-USUARIO)
-* **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
-* **Correo:** tu-correo@ejemplo.com
+<div align="center">
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
