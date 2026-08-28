@@ -57,7 +57,7 @@
 ### 🐍 Actividad de Commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/gustavoNetcon/gustavoNetcon/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
